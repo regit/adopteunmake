@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Adopte un make. Une initiative de conservation logicielle.
   Présenter des logiciels orphelins à des développeurs et mainteneurs potentiels
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.adopteunemake.com" # the base hostname & protocol for your site
+url: "http://www.adopteunmake.com" # the base hostname & protocol for your site
 twitter_username: regiteric
 github_username:  regit
 
